@@ -5,3 +5,6 @@ protocoder-notes
 * [https://github.com/processing/processing-android](https://github.com/processing/processing-android). 
 * http://wiki.processing.org/w/Android
 * https://github.com/rogerwang/node-webkit
+* Java IDEs capable of building Android applications on a device:
+  * [java-ide-droid](https://code.google.com/p/java-ide-droid/)
+  * [AIDE](http://www.android-ide.com)
